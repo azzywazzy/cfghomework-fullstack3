@@ -1,0 +1,28 @@
+.App, .Login, .LoginSuccess, .LoginFail {
+    text-align: center;
+  }
+  
+  .btn-login {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    padding: 1em;
+  }
+  
+  .btn-success {
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    padding: 1em;
+  }
+  
+  .btn-fail {
+    background-color: magenta;
+    color: white;
+    font-weight: bold;
+    padding: 1em;
+  }
+  
+  input {
+    font-size: 20px;
+  }
